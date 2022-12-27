@@ -1,16 +1,13 @@
-# login_page
+# LOGIN PAGE
 
-A new Flutter project.
+------My login screen with firebase hope it helps you------
 
-## Getting Started
+<table>
+<tr><td><img src="https://github.com/Gizemkaragozlu/Login_Page/blob/main/ss/ss1.png"/></td>
+<td><img src="https://github.com/Gizemkaragozlu/Login_Page/blob/main/ss/ss2.png"/></td></tr>
+<tr><td><img src="https://github.com/Gizemkaragozlu/Login_Page/blob/main/ss/ss3.png"/></td>
+<td><img src="https://github.com/Gizemkaragozlu/Login_Page/blob/main/ss/ss4.png"/></td></tr>
+<tr><td><img src="https://github.com/Gizemkaragozlu/Login_Page/blob/main/ss/ss5.png"/></td>
+<tr><td><img src="https://github.com/Gizemkaragozlu/Login_Page/blob/main/ss/firebase.png"/></td>
+</table>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
