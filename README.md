@@ -7,6 +7,6 @@
 <td><img src="https://github.com/Gizemkaragozlu/Login_Page/blob/main/ss/ss2.png"/></td></tr>
 <tr><td><img src="https://github.com/Gizemkaragozlu/Login_Page/blob/main/ss/ss3.png"/></td>
 <td><img src="https://github.com/Gizemkaragozlu/Login_Page/blob/main/ss/ss4.png"/></td></tr>
-<tr><td><img src="https://github.com/Gizemkaragozlu/Login_Page/blob/main/ss/firebase.png" width="300" height="250"/></td>
+<tr><td><img src="https://github.com/Gizemkaragozlu/Login_Page/blob/main/ss/firebase.png" width="700" height="500"/></td>
 </table>
 
